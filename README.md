@@ -1,1 +1,1 @@
-Hello, welcome to my engineering portfolio! This is where I share some of my main projects for folks to see in greater detail. If you want to know more about any of them, or just want to get in touch, feel free to email me at: BLBerkebile@gmail.com !
+Hello, welcome to my engineering portfolio! This is where I share some of my main projects for folks to see in greater detail. If you want to know more about any of them, or just want to get in touch, feel free to email me at: BLBerkebile@gmail.com 
