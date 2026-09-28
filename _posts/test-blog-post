@@ -1,0 +1,17 @@
+---
+layout: post
+title: Test Blog Post for Learning and Stuff!
+subtitle: There's lots to learn! Like at least 3 things
+gh-repo: bensgineering/bensgineering
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Ben
+
+---
+
+{: .box-success}
+Wow check out this cool box I made! Theres some sentences inside it!
+
+**Now the text is BOLDDDD**
