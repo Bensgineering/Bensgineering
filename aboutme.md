@@ -3,7 +3,7 @@ layout: page
 title: About Ben
 subtitle: What I get up to
 ---
-![Picture Broken :(](assets/img/informalBen.jpg)
+![Picture Broken :(](assets/img/informalBen.jpeg)
 
 Hi, I'm Ben! I'm studying aerospace engineering and physics at the University of Texas at Arlington, hoping to graduate in spring 2028. My primary interests are propulsion systems (especially for space applications!) and particle physics. I made this website to serve as a repository for all of my projects to share updates and go over them in more detail. Also, I made this website because its really fun to do!
 
