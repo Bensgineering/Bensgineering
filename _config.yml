@@ -24,8 +24,9 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  Wikipedia: "https://www.wikipedia.org"
+    - Github Pages: "https://docs.github.com/en/pages/quickstart"
+ #Author's home: "https://deanattali.com"
+ #Wikipedia: "https://www.wikipedia.org"
 
 ################
 # --- Logo --- #
