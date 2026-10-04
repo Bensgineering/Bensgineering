@@ -20,6 +20,10 @@ author: Ben Berkebile
 ###############################################
 
 navbar-links:
+  Projects:
+    - Cloud Chamber: "cloudChamber"
+    - L1 Rocket: "1Rocket"
+    - Cold Gas Thruster: "coldGasThruster"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
