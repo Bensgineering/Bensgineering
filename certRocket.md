@@ -2,6 +2,8 @@
 layout: page
 title: L1 Certification Rocket
 subtitle: Lets get Certified!
+tags: [Rocketry, Propulsion, Manufacturing]
+
 ---
 ![Picture Broken :(](assets/img/certCADAssy.png)
 
