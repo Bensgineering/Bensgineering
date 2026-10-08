@@ -2,8 +2,6 @@
 layout: post
 title: Welcome to my Digital Portfolio!
 subtitle: There's lots to share!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Bensgineering]
 comments: false
 mathjax: true
