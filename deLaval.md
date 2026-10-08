@@ -26,7 +26,7 @@ Speaking of the nozzle, this part of the design has been pretty interesting. I s
 
  After the flow reaches a sonic, or “critical”, condition at the throat it continues to accelerate as it goes through the next section of the nozzle. Interestingly, for supersonic gas flows the standard logic of smaller area = faster flow inverts, and the flow actually speeds up the larger the nozzle’s area. It is this behavior that results in the classic converging-to-diverging “bell” shaped nozzle on rocket motors.
 
-![Picture Broken :(](assets/img/deLavalNozzle.png)
+![Picture Broken :(](assets/img/deLavalNozzle.jpg)
 
 **Thrust Control**
 
