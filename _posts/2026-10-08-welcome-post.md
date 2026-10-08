@@ -11,8 +11,9 @@ author: Ben Berkebile
 ---
 
 I’m excited to share the latest of my many random projects: a website *cataloguing* my many random projects! The goal of this website is to serve as a place where I can go more in depth. A place where I can share more details, pictures, and updates on all the different projects I have. However, if you *still* want more information, please don't hesitate to reach out! You can contact me at: 
-{: .box-note}
+
 BLBerkbile@gmail.com
+{: .box-note}
 
 If you'd like to look at any of my projects, feel free to select them from the **Projects** dropdown, or search for them with the search bar. At the moment I've only uploaded a limited selection of projects, so its probably easiest just to use the dropdown selector.
 
