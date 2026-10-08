@@ -21,7 +21,7 @@ author: Ben Berkebile
 
 navbar-links:
   Projects:
-    - Water Bottle Robot: "circuitBreakers"
+    - Water Bottle Car: "circuitBreakers"
     #- Cloud Chamber: "cloudChamber"
     - L1 Rocket: "certRocket"
     - Cold Gas Thruster: "deLaval"
