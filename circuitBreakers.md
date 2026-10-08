@@ -47,3 +47,4 @@ This project will always have a special place in my heart (and a dedicated space
 
 The lessons I learned on this project served me well in future projects, for example the stuff about having very intentional design when it comes to mounting hardware.
 
+![Picture Broken :(](assets/img/circuitBreakersExplodedDrawing.png)
