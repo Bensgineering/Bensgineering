@@ -2,6 +2,7 @@
 layout: page
 title: Water Bottle Car
 subtitle: My first college project!
+tags: [CAD, Simulation, Microcontrollers]
 ---
 ![Picture Broken :(](assets/img/circuitBreakersProfilePic.png)
 
