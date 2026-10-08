@@ -21,9 +21,10 @@ author: Ben Berkebile
 
 navbar-links:
   Projects:
-    - Cloud Chamber: "cloudChamber"
-    - L1 Rocket: "1Rocket"
-    - Cold Gas Thruster: "coldGasThruster"
+    - Water Bottle Robot: "circuitBreakers"
+    #- Cloud Chamber: "cloudChamber"
+    - L1 Rocket: "certRocket"
+    - Cold Gas Thruster: "deLaval"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
